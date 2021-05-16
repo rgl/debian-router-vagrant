@@ -15,6 +15,8 @@ The network is setup as:
 
 **NB** The dotted lines represent a network connection that is not directly used, instead, the traffic in those nodes goes through `eth1` and is routed by the `router` machine.
 
+**NB** For a ansible managed environment see [rgl/debian-router-ansible-vagrant](https://github.com/rgl/debian-router-ansible-vagrant).
+
 **NB** For a windows equivalent of this environment see
 [rgl/windows-router-vagrant](https://github.com/rgl/windows-router-vagrant).
 
